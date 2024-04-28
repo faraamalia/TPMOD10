@@ -30,3 +30,4 @@ C:\Kuliah\SEMESTER 4\KPL\TPMOD10\tpmodul10_1302223137\tpmodul10_1302223137\obj\D
 C:\Kuliah\SEMESTER 4\KPL\TPMOD10\tpmodul10_1302223137\tpmodul10_1302223137\obj\Debug\net8.0\tpmodul10_1302223137.pdb
 C:\Kuliah\SEMESTER 4\KPL\TPMOD10\tpmodul10_1302223137\tpmodul10_1302223137\obj\Debug\net8.0\tpmodul10_1302223137.genruntimeconfig.cache
 C:\Kuliah\SEMESTER 4\KPL\TPMOD10\tpmodul10_1302223137\tpmodul10_1302223137\obj\Debug\net8.0\ref\tpmodul10_1302223137.dll
+C:\Kuliah\SEMESTER 4\KPL\TPMOD10\tpmodul10_1302223137\tpmodul10_1302223137\obj\Debug\net8.0\tpmodul10_1302223137.sourcelink.json
